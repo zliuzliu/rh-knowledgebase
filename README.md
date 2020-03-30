@@ -6,6 +6,7 @@ You may need a Red Hat subscription to view the details.
 OpenShift
 - [SAP Data Hub 2 on OpenShift Container Platform 4](https://access.redhat.com/articles/4324391)
 - [Adding worker nodes to the OCP 4 UPI cluster existing 24+ hours](https://access.redhat.com/solutions/4799921)
+- [How to use entitled image builds on OpenShift 4 cluster](https://access.redhat.com/solutions/4908771)
 
 RHEL
 - [How do I change the default kernel in GRUB that is loaded at startup?](https://access.redhat.com/solutions/3089)
